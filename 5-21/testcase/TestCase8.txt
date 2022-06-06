@@ -1,0 +1,52 @@
+Lesser Mana Potion, Lesser Health Potion, Lesser Strength Potion
+
+Mandy the Mage has encountered a dragon!
+
+********************************** ROUND 1 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 36 mana left.
+Mandy the Mage attacks the dragon for 6 damage.
+The dragon has 94 health left.
+
+The dragon attacks Mandy the Mage for 6 damage.
+Mandy the Mage has 14 health left.
+
+
+********************************** ROUND 2 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 16 mana left.
+Mandy the Mage attacks the dragon for 5 damage.
+The dragon has 89 health left.
+
+The dragon attacks Mandy the Mage for 9 damage.
+Mandy the Mage has 5 health left.
+
+
+********************************** ROUND 3 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 14 mana left.
+Mandy the Mage attacks the dragon for 7 damage.
+The dragon has 82 health left.
+
+The dragon attacks Mandy the Mage for 4 damage.
+Mandy the Mage has 1 health left.
+
+
+********************************** ROUND 4 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 8 mana left.
+Mandy the Mage attacks the dragon for 6 damage.
+The dragon has 76 health left.
+
+The dragon attacks Mandy the Mage for 9 damage.
+Mandy the Mage is dead.
+
+The dragon has defeated Mandy the Mage

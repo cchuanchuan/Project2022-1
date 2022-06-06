@@ -1,0 +1,37 @@
+Lesser Health Potion, Greater Health Potion, Lesser Health Potion
+
+Tim the Tester has encountered a dragon!
+
+********************************** ROUND 1 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Tim the Tester attacks the dragon for 9 damage.
+The dragon has 91 health left.
+
+The dragon attacks Tim the Tester for 8 damage.
+Tim the Tester has 12 health left.
+
+
+********************************** ROUND 2 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Tim the Tester attacks the dragon for 3 damage.
+The dragon has 88 health left.
+
+The dragon attacks Tim the Tester for 10 damage.
+Tim the Tester has 2 health left.
+
+
+********************************** ROUND 3 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Tim the Tester attacks the dragon for 1 damage.
+The dragon has 87 health left.
+
+The dragon attacks Tim the Tester for 5 damage.
+Tim the Tester is dead.
+
+The dragon has defeated Tim the Tester

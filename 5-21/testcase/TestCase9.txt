@@ -1,0 +1,51 @@
+Lesser Health Potion, Basic Health Potion, Basic Health Potion
+
+Mandy the Mage has encountered a dragon!
+
+********************************** ROUND 1 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 7 mana left.
+Mandy the Mage attacks the dragon for 10 damage.
+The dragon has 10 health left.
+
+The dragon attacks Mandy the Mage for 10 damage.
+Mandy the Mage has 40 health left.
+
+
+********************************** ROUND 2 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 3 mana left.
+Mandy the Mage attacks the dragon for 9 damage.
+The dragon has 1 health left.
+
+The dragon attacks Mandy the Mage for 10 damage.
+Mandy the Mage has 30 health left.
+
+
+********************************** ROUND 3 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Not enough mana!
+Mandy the Mage attacks the dragon for 0 damage.
+The dragon has 1 health left.
+
+The dragon attacks Mandy the Mage for 8 damage.
+Mandy the Mage has 22 health left.
+
+
+********************************** ROUND 4 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Mandy the Mage has 2 mana left.
+Mandy the Mage attacks the dragon for 6 damage.
+The dragon is dead.
+
+Mandy the Mage has defeated the dragon
+Mandy the Mage has been rewarded with 2 points of health back.
+Mandy the Mage has been rewarded with a Lesser Health Potion.

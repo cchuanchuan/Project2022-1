@@ -1,0 +1,38 @@
+Lesser Strength Potion, Lesser Strength Potion, Epic Health Potion
+
+Wendy the Warrior has encountered a dragon!
+
+********************************** ROUND 1 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Wendy the Warrior attacks the dragon for 8 damage.
+The dragon has 12 health left.
+
+Wendy the Warrior blocks 1 points of damage.
+The dragon attacks Wendy the Warrior for 3 damage.
+Wendy the Warrior has 123 health left.
+
+
+********************************** ROUND 2 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Wendy the Warrior attacks the dragon for 9 damage.
+The dragon has 3 health left.
+
+Wendy the Warrior blocks 1 points of damage.
+The dragon attacks Wendy the Warrior for 10 damage.
+Wendy the Warrior has 114 health left.
+
+
+********************************** ROUND 3 **********************************
+
+Your inventory holds: 1: Lesser Health Potion 2: Lesser Health Potion 3: Lesser Strength Potion 4: Lesser Strength Potion 5: Lesser Mana Potion 
+Type an inventory slot number or 0 to attack: 
+Wendy the Warrior attacks the dragon for 9 damage.
+The dragon is dead.
+
+Wendy the Warrior has defeated the dragon
+Wendy the Warrior has been rewarded with 12 points of health back.
+Wendy the Warrior has been rewarded with a Greater Health Potion.
