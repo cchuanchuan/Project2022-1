@@ -25,8 +25,8 @@ public class Battle {
 	  * @param monster
 	  * @param input
 	  */
-	public static void startBattle(Player player, Monster monster, Scanner input) {
-		
-	}
+//	public static void startBattle(Player player, Monster monster, Scanner input) {
+//
+//	}
 
 }
